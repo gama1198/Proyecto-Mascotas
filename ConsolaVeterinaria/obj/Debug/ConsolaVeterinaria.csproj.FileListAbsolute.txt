@@ -1,0 +1,11 @@
+C:\Users\Gama\Desktop\Solucion Veterinaria\ConsolaVeterinaria\bin\Debug\ConsolaVeterinaria.exe.config
+C:\Users\Gama\Desktop\Solucion Veterinaria\ConsolaVeterinaria\bin\Debug\ConsolaVeterinaria.exe
+C:\Users\Gama\Desktop\Solucion Veterinaria\ConsolaVeterinaria\bin\Debug\ConsolaVeterinaria.pdb
+C:\Users\Gama\Desktop\Solucion Veterinaria\ConsolaVeterinaria\bin\Debug\Solucion Veterinaria.dll
+C:\Users\Gama\Desktop\Solucion Veterinaria\ConsolaVeterinaria\bin\Debug\Solucion Veterinaria.pdb
+C:\Users\Gama\Desktop\Solucion Veterinaria\ConsolaVeterinaria\obj\Debug\ConsolaVeterinaria.csproj.AssemblyReference.cache
+C:\Users\Gama\Desktop\Solucion Veterinaria\ConsolaVeterinaria\obj\Debug\ConsolaVeterinaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gama\Desktop\Solucion Veterinaria\ConsolaVeterinaria\obj\Debug\ConsolaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Gama\Desktop\Solucion Veterinaria\ConsolaVeterinaria\obj\Debug\ConsolaVeterinaria.csproj.CopyComplete
+C:\Users\Gama\Desktop\Solucion Veterinaria\ConsolaVeterinaria\obj\Debug\ConsolaVeterinaria.exe
+C:\Users\Gama\Desktop\Solucion Veterinaria\ConsolaVeterinaria\obj\Debug\ConsolaVeterinaria.pdb

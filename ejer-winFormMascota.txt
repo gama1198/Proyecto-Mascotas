@@ -1,0 +1,5 @@
+Utilizando la solución de Veterinaria, 
+Agregar un proyecto de windows forms
+y realizar un formulario para capturar los
+datos de las mascotas, posteriormente los
+guardaremos en colecciones de Mascotas

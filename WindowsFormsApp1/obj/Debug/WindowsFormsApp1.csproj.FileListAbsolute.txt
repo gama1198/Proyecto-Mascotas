@@ -1,0 +1,66 @@
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\Solucion Veterinaria.dll
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\Solucion Veterinaria.pdb
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\Solucion Veterinaria.dll
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\Solucion Veterinaria.pdb
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\Solucion Veterinaria.dll
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\Solucion Veterinaria.pdb
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\Solucion Veterinaria.dll
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\Solucion Veterinaria.pdb
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\Solucion Veterinaria.dll
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\bin\Debug\Solucion Veterinaria.pdb
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gama\Desktop\Solucion Veterinaria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

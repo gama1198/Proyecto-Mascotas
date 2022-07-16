@@ -1,0 +1,30 @@
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\Solucion Veterinaria\bin\Debug\Solucion Veterinaria.dll
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\Solucion Veterinaria\bin\Debug\Solucion Veterinaria.pdb
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\BiblioMascota.csprojAssemblyReference.cache
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\BiblioMascota.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\Solucion Veterinaria.dll
+C:\Users\Alumnos\Desktop\MG\lpweb\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\Solucion Veterinaria.pdb
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\Solucion Veterinaria\bin\Debug\Solucion Veterinaria.dll
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\Solucion Veterinaria\bin\Debug\Solucion Veterinaria.pdb
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\BiblioMascota.csprojAssemblyReference.cache
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\BiblioMascota.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\Solucion Veterinaria.dll
+C:\Users\Alumnos\Desktop\Mg\LWeb\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\Solucion Veterinaria.pdb
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\Solucion Veterinaria\bin\Debug\Solucion Veterinaria.dll
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\Solucion Veterinaria\bin\Debug\Solucion Veterinaria.pdb
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\BiblioMascota.csprojAssemblyReference.cache
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\BiblioMascota.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\Solucion Veterinaria.dll
+C:\Users\Alumnos\Desktop\Mg\LWeb\semana04\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\Solucion Veterinaria.pdb
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\Solucion Veterinaria\bin\Debug\Solucion Veterinaria.dll
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\Solucion Veterinaria\bin\Debug\Solucion Veterinaria.pdb
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\BiblioMascota.csprojAssemblyReference.cache
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\BiblioMascota.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\Solucion Veterinaria.dll
+C:\Users\Alumnos\Desktop\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\Solucion Veterinaria.pdb
+C:\Users\Gama\Desktop\Solucion Veterinaria\Solucion Veterinaria\bin\Debug\Solucion Veterinaria.dll
+C:\Users\Gama\Desktop\Solucion Veterinaria\Solucion Veterinaria\bin\Debug\Solucion Veterinaria.pdb
+C:\Users\Gama\Desktop\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\BiblioMascota.csproj.AssemblyReference.cache
+C:\Users\Gama\Desktop\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\BiblioMascota.csproj.CoreCompileInputs.cache
+C:\Users\Gama\Desktop\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\Solucion Veterinaria.dll
+C:\Users\Gama\Desktop\Solucion Veterinaria\Solucion Veterinaria\obj\Debug\Solucion Veterinaria.pdb
